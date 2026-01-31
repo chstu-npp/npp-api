@@ -1,5 +1,7 @@
 # NPP API
 
+A modern web-based system for planning, reporting, and evaluating the activities of academic staff.
+
 ## 📋 Table of Contents
 
 - [Prerequisites](#prerequisites)
