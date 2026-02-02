@@ -84,7 +84,7 @@ npp-api/
 │   └── images/                  # Images for docs
 │       └── .gitkeep
 │   └── api/                  
-│       └── openapi-spec.yaml
+│       └── api-docs.yaml        # OpenAPI documentation
 ├── back/                        # Source code
 │   ├── src/
 │   │   ├── main/

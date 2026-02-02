@@ -18,7 +18,7 @@ services:
 
   backend:
     build:
-      context: .
+      context: ./back
       dockerfile: Dockerfile
     container_name: npp-backend
     depends_on:
